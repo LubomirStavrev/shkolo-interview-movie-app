@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "29004972309",
+    "project_id": "shkolo-interview-movie-app",
+    "storage_bucket": "shkolo-interview-movie-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29004972309:android:f05a546f135ecd9e14691c",
+        "android_client_info": {
+          "package_name": "com.lyubomirstavrev1.MovieApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29004972309-k9f573q8dtmn1ts6bnf6m74nhnm7p1vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lyubomirstavrev1.MovieApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "29004972309-15mru9v0ta31cd6jnlnf1ea2flvn3es1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdVVbx-7IEWdfatGLU2hyv9I0Zv_QAik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29004972309-15mru9v0ta31cd6jnlnf1ea2flvn3es1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29004972309-3a1k1j7ahj1jauhihllergop3abuqns9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lyubomirstavrev1.MovieApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
